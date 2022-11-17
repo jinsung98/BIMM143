@@ -1,2 +1,2 @@
 # BIMM143
-Bioinformatics
+Bioinformatics Fall 22
