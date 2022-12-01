@@ -3,10 +3,10 @@ Bioinformatics Fall 22 at UC San Diego
 
 Here is a portfolio of my work for [BIMM143](https://bioboot.github.io/bimm143_F22/)
 
--Class 10:  [Halloween Candy mini-Project](HalloweenMiniProject_Final.pdf)|[Code](HalloweenMiniproject.md)
+-Class 10:  [Halloween Candy mini-Project]([HalloweenMiniProject_Final.pdf](https://github.com/jinsung98/BIMM143/blob/main/HalloweenMiniProject_Final.pdf))|[Code]([HalloweenMiniproject.md](https://github.com/jinsung98/BIMM143/blob/main/HalloweenMiniProject.md))
 
 -Class 12: [Bioconductor and DESeq2](https://github.com/jinsung98/BIMM143/blob/main/Class12.pdf)|[Code](https://github.com/jinsung98/BIMM143/blob/main/Class12.md)
 
--Class 13: [RNA-Seq mini-Porject](RNA-Seq-Mini-project.pdf)|[Code](RNA-Seq Mini porject.md)
+-Class 13: [RNA-Seq mini-Porject](https://github.com/jinsung98/BIMM143/blob/main/RNA-Seq-Mini-project.pdf)|[Code]([RNA-Seq Mini porject.md](https://github.com/jinsung98/BIMM143/blob/main/RNA-Seq-Mini-project.md))
 
--Class 17:  [Vaccination Rate mini-Project](Covid-19-Vax-rate.pdf)|[Code](Covid-19-Vax-rate.md)
+-Class 17:  [Vaccination Rate mini-Project]([Covid-19-Vax-rate.pdf](https://github.com/jinsung98/BIMM143/blob/main/Covid-19-Vax-rate.pdf))|[Code](https://github.com/jinsung98/BIMM143/blob/main/Covid-19%20Vax%20rate.md)
